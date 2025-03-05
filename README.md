@@ -8,5 +8,4 @@ Este jogo ainda **não está finalizado**. Estamos atualmente testando novas mec
 - Algumas funcionalidades podem não estar completamente desenvolvidas.
 - O balanceamento e a experiência de jogo ainda estão sendo ajustados.
 
-![Agradecemos sua paciência e apoio! 🚀](https://w7.pngwing.com/pngs/718/41/png-transparent-super-paper-mario-super-mario-bros-super-mario-rpg-paper-mario-the-thousand-year-door-mario-bros-heroes-super-mario-bros-hand.png)
-
+Agradecemos sua paciência e apoio! 🚀
